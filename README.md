@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @leognoronha
+- 📍 I’m from Santo André, Brazil 🇧🇷
+- 📓 I’m currently 7th semester of Computer Engineering
+- 📫 contact: leognoronha@gmail.com
